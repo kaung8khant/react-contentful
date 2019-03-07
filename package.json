@@ -80,7 +80,7 @@
     "greenkeeper-lockfile": "^1.15.1",
     "gzip-size": "^5.0.0",
     "jest": "^23.6.0",
-    "jest-enzyme": "^7.0.1",
+    "jest-enzyme": "7.0.1",
     "jsdom": "^13.2.0",
     "pretty-bytes": "^5.1.0",
     "react": "^16.8.1",
