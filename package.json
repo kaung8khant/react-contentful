@@ -55,7 +55,7 @@
   "dependencies": {
     "@babel/runtime": "^7.3.4",
     "@contentful/rich-text-react-renderer": "^13.1.0",
-    "contentful": "^7.4.1",
+    "contentful": "^7.4.3",
     "hoist-non-react-statics": "^3.3.0",
     "invariant": "^2.2.4",
     "lomit": "^0.1.1",
