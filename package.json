@@ -82,7 +82,7 @@
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
     "greenkeeper-lockfile": "^1.15.1",
-    "gzip-size": "^5.0.0",
+    "gzip-size": "5.0.0",
     "jest": "^23.6.0",
     "jest-enzyme": "^7.0.2",
     "jsdom": "^14.0.0",
