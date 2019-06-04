@@ -85,7 +85,7 @@
     "coveralls": "^3.0.3",
     "dtslint": "^0.7.1",
     "enzyme": "^3.10.0",
-    "enzyme-adapter-react-16": "^1.12.1",
+    "enzyme-adapter-react-16": "^1.14.0",
     "greenkeeper-lockfile": "^1.15.1",
     "gzip-size": "^5.1.0",
     "jest": "^23.6.0",
