@@ -59,7 +59,7 @@
     "@babel/runtime": "^7.5.4",
     "@contentful/rich-text-react-renderer": "^13.2.0",
     "@types/react": "^16.8.23",
-    "contentful": "^7.8.1",
+    "contentful": "7.8.1",
     "contentful-parsers": "^0.2.6",
     "flatted": "^2.0.1",
     "hoist-non-react-statics": "^3.3.0",
