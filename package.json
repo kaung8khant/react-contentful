@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.5.5",
-    "@contentful/rich-text-react-renderer": "^13.2.0",
+    "@contentful/rich-text-react-renderer": "^13.4.0",
     "@types/react": "^16.8.23",
     "contentful": "^7.8.2",
     "contentful-parsers": "^0.2.7",
